@@ -1,4 +1,4 @@
 Hello there to My First Repository
-Learning how to GIT and goinf well so far.
+Learning how to GIT and going well so far.
 I added this line in the update-readme branch.
-it is windy outside today.
+It is windy outside today.
